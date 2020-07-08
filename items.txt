@@ -1,0 +1,61 @@
+arctic cpu casing	  9	1990
+asus monitor   	7	   7400
+barcode scanner 	7	 1990
+bays 	14	19900
+bluetooth headset	11	700
+bluetooth mobile keyboard 	6	 2000
+bus(IDE) 	12	 1000
+card 4-Port usb hub	3	280.0
+cd-rom drive 	2	  530
+chassis 	3	  360
+comfort curve keyboard 	7	 1000
+compact optical mouse 	5	  600
+contact barcode scanner	9	1580
+corsair usb.8gb	2	  270
+cpu 	1	13000
+cpu fan	9	111.0
+cruzer usb.4gb 	10	  250
+digital hard disk drive.500gb	4	5300
+dvd-rom	14	1900
+ethernet card 	8	  750
+expansion slots 	3	  200
+express mouse 	10	  800
+fan and heat sink 	2	 1200
+floppy drive 	2	   15
+gigabit 18-Port	8	10478
+hard disk drive 	22	 2600
+hard drive.750gb 	9	 3580
+headphone 	7	  180
+iBall Baton 16-Port	22	1690
+intel core 2 cpu	12	21700
+joystick 	5	  680
+kingston usb.8gb 	3	  280
+memory	2	   10
+modem  	6	   8
+motherboard 	12	 4000
+mouse pad 	2	   40
+network card 	7	  500
+parallel card	8	250	
+pc microphone 	12	  150
+ports 	3	 2040
+power cord 	4	  600
+power supply	3	580
+printer	4	 2580
+samsung monitor 	7	22300
+scanner 	6	 2180
+smart card 	3	    6
+sound card 	10	 3300
+speaker	20	  350
+steelseries mouse pad	21	2180
+touch mouse 	5	 2000
+touch pad 	8	  480
+trackball 	4	 1800
+video card 	4	 2800
+video monitor 	5	 3500
+vizard cpu casing	2	1480
+wired modem router	21	920
+comfort mouse	3	800.0
+bluetooth wireless headset	2	380.0
+Laptop	0	20000.0
+Kathleen	17	4.0
+Patrick	7	33.0
